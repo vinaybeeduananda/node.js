@@ -1,0 +1,7 @@
+What is the need of tree shaking
+What is a Regular Expression
+What are the string methods available in Regular expression
+What are regular expression patterns
+What is a RegExp object
+How do you search a string for a pattern
+What is the purpose of exec methodadding extra
